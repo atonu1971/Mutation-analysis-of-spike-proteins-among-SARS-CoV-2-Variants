@@ -20,7 +20,7 @@ Mutations in the spike region of SARS CoV-2 have been studied to make newer vari
 
 ## Workflow 
 
-* Sequences for the reference genome (Wuhan strain) of the SARS CoV-2, five variants of concern (B.1.1.7|Alpha, B.1.351|Beta, P.1|Gamma, B.1.617|Delta, B.1.1.529|Omicron) were retrieved from NCBI. 
+* Sequences for the reference genome (Wuhan strain) of the SARS CoV-2, five variants of concern (B.1.1.7|Alpha, B.1.351|Beta, P.1|Gamma, B.1.617|Delta, B.1.1.529|Omicron) were retrieved from NCBI. Then manually combined all these sequence in one FASTA file. 
 * Packages Biopython (seqIO) was used to read and manipulate the sequence. 
 * Then the sequences was aligned by using MAFFT package.
 * Alignment file was produced and went through another arguement to cover the gapped section between the coding regions for spike protein coding genes. 
