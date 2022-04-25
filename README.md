@@ -4,7 +4,7 @@
 | Understanding sequence similarity and mutations of different SARS CoV-2 variants                           |
 | Illustrating for a specific gene of interest how much the variants are different from the reference genome |
 
-**Note: This Readme file summarizes the background, objectives and precise description of the workflow. Please see the .ipynb jupyter notebook (Spike Protein Mutation Between SARS CoV-2 Strains.ipynb) file in the file section. That section will walk you through step by step in this project.**
+**Note: This Readme file summarizes the background, objectives and precise description of the workflow. Please see the .ipynb jupyter notebook (Spike Protein Mutation Between SARS CoV-2 Strains.ipynb) file in the file section. That file will walk you through step by step in this project.**
 
 ## Introduction
 
