@@ -26,3 +26,4 @@ Mutations in the spike region of SARS CoV-2 have been studied to make newer vari
 * A variable was assigned to show the mutation on the nucleotide position comparing to the Wuhan strain as that was the reference genome. 
 * Using translate function (an inbuilt function in Biopython package), the spike protein coding nucleotides was translated to amino acid sequences.  
 * Amino acid sequences are aligned using MAFFT. Mutations type and positions will be turned out through another variable assigned to show the mutations among the amino acid sequences. 
+* matplotlib package was used to illustrate the mutations in amino acid sequences from the Wuhan strain of SARS CoV-2.
