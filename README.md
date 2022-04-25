@@ -4,6 +4,8 @@
 | Understanding sequence similarity and mutations of different SARS CoV-2 variants                           |
 | Illustrating for a specific gene of interest how much the variants are different from the reference genome |
 
+**This Readme file summarizes the background, objectives and precise description of the workflow. Please see the .ipynb jupyter notebook (Spike Protein Mutation Between SARS CoV-2 Strains.ipynb) file in the file section. That section will walk you through step by step in this project. 
+
 ## Introduction
 
 Mutations in the spike region of SARS CoV-2 have been studied to make newer variants wildly contagious and provide advantages to spread faster. So, in this project the gene of interest is spike protein coding gene of SARS CoV-2. 
@@ -27,3 +29,4 @@ Mutations in the spike region of SARS CoV-2 have been studied to make newer vari
 * Using translate function (an inbuilt function in Biopython package), the spike protein coding nucleotides was translated to amino acid sequences.  
 * Amino acid sequences are aligned using MAFFT. Mutations type and positions will be turned out through another variable assigned to show the mutations among the amino acid sequences. 
 * matplotlib package was used to illustrate the mutations in amino acid sequences from the Wuhan strain of SARS CoV-2.
+
